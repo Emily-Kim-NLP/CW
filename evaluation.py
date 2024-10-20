@@ -53,7 +53,7 @@ def generate_evaluation_prompts(text):
                         "2 (Developing): An intermediate level of achievement, showing improvement over novice.\n"
                         "3 (Expert): The highest level of achievement, indicating advanced proficiency.\n"
                         "You should score only by numbers not with explanations.
-                        Make the results appear like this :
+                        Make the results appear like this example in order :
                         Evaluating:
                         Fluency: 2
                         Flexibility: 2
