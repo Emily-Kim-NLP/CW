@@ -139,5 +139,5 @@ for label, file_path in file_paths.items():
         else:
             evaluation_list.append([0, 0, 0, 0, 0, 0])
         index += 1
-# 평가 결과를 엑셀 파일로 저장
+# saving the file
 save_evaluation_to_excel(evaluation_list)
