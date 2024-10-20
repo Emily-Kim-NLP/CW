@@ -4,6 +4,7 @@ This repository supports the research for the paper "Evaluating Creativity: Can 
 Contents:
 
 -Dataset: A curated collection of creative writing samples for research and evaluation including 200 human-written stories and 200 GPT4-generated stories.
+(The documents are available from Emily-Kim-NLP upon reasonable request)
 
 -Generation Code: Utilizes the GPT-4 model to generate creative writing samples based on a range of input prompts.
 
